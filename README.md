@@ -15,6 +15,7 @@ Gurukul
 
 ## Skills
 - C, C++,Javascript
+- HTML, CSS, ReactJs
   
  
 
