@@ -12,5 +12,9 @@ Gurukul
 ## Education Experience
 
 - MMMUT
+
+## Skills
+- C, C++,Javascript
+  
  
 
