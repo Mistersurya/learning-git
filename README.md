@@ -5,3 +5,12 @@ Imocha
 
 Goldman Sach
 
+KIMO
+
+Gurukul
+
+## Education Experience
+
+- MMMUT
+ 
+
